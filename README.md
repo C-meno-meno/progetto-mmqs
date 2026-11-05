@@ -4,7 +4,7 @@ Nome del progetto : progetto-mmqs
 
 ## Membri 
 
-Andriani Chiara 827591
-Andriani Claudio 826192
-Azzollini Vito 826191
-Campi Mattia 827730
+Andriani Chiara Antonia 827591 Username Github : chiara-andri
+Andriani Claudio 826192 Username Github : ClaudeThePurrGrammer
+Azzollini Vito 826191 Username Github : vito0522
+Campi Mattia 827730 Username Github : mcampi2005-ai
